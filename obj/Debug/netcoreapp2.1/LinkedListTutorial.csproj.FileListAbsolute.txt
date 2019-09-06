@@ -1,0 +1,11 @@
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\bin\Debug\netcoreapp2.1\LinkedListTutorial.deps.json
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\bin\Debug\netcoreapp2.1\LinkedListTutorial.runtimeconfig.json
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\bin\Debug\netcoreapp2.1\LinkedListTutorial.runtimeconfig.dev.json
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\bin\Debug\netcoreapp2.1\LinkedListTutorial.dll
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\bin\Debug\netcoreapp2.1\LinkedListTutorial.pdb
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.csprojAssemblyReference.cache
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.AssemblyInfoInputs.cache
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.AssemblyInfo.cs
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.dll
+C:\Users\Jacob & Märta\source\repos\LinkedListTutorial\LinkedListTutorial\obj\Debug\netcoreapp2.1\LinkedListTutorial.pdb
