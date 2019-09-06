@@ -1,0 +1,2 @@
+# LinkedList
+Generic linked list
